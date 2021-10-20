@@ -1,0 +1,16 @@
+body {
+    background-image : url("abcde.png");
+    padding-top: 10vh;
+}
+
+form {
+    background:linear-gradient(to bottom , #121485 ,#80a4f3); 
+    color: whitesmoke;
+}
+
+.form-container {
+    border-radius: 10px;
+    padding: 30px;
+}
+
+
